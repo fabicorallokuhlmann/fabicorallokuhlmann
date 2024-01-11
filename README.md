@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 
 - 🖥️ Atualmente, **estudando**:
 <div display="inline">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width ="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width ="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width ="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" width ="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width ="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width ="80" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width ="70" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width ="70" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width ="70" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" width ="65" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width ="95" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width ="95" />&nbsp;&nbsp;
   </div>
 
 ## 
