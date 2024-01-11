@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   </div>
 
 ## 
-##### Você me encontra também em: 
+##### Outras redes: 
 <div display="inline"> 
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width ="100">
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width ="100" />
