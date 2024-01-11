@@ -63,3 +63,8 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Virtual-Agents-Colored.svg" width ="45" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Apps-Colored.svg" width ="45" />&nbsp;&nbsp;
 <br/><br/>-->
+
+<!--
+<img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width ="100">
+<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width ="100">
+-->
