@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 </a> 
 </div>
  
- 
+ <!--
  <a href="https://linkedin.com/in/lucas-leal-santos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+-->
