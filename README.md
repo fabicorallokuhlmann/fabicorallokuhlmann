@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width ="70" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width ="70" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" width ="65" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Matplotlib-%238b0000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" width ="80" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width ="95" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width ="95" />&nbsp;&nbsp;
   </div>
