@@ -58,3 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 -->
+<!--
+&nbsp;&nbsp;<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Virtual-Agents-Colored.svg" width ="45" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Apps-Colored.svg" width ="45" />&nbsp;&nbsp;
+<br/><br/>-->
