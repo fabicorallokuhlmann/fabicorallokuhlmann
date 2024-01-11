@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 <br/><br/>-->
 
 <!--
-<img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width ="100">
-<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width ="100">
+<img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width ="45">
+<img src="https://www.svgrepo.com/show/354012/looker-icon.svg" width ="45">
+<img src="https://www.svgrepo.com/show/374159/vba.svg" width ="45"
 -->
