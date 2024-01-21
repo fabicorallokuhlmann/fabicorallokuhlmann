@@ -52,11 +52,13 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width ="100" />
   
 <a href="https://sites.google.com/view/portfoliodeprojetosfabianack/in%C3%ADcio">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" width ="100" />
+<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" width ="100">
+</a>
 
 <a href="mailto:fabiana.corallo01@gmail.com">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width ="80"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width ="80"/>
 </a> 
+
 </div>
  
  <!--
