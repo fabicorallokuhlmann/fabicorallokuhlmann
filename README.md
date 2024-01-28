@@ -48,23 +48,26 @@ Here are some ideas to get you started:
 ## 
 ##### Outras redes: 
 <div display="inline"> 
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width ="100">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width ="100" />
+<a href="https://linkedin.com/in/fabianacorallokuhlmann">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>    
   
 <a href="https://sites.google.com/view/portfoliodeprojetosfabianack/in%C3%ADcio">
-<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" width ="100">
+<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" width ="100"/>
 </a>
 
 <a href="mailto:fabiana.corallo01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width ="80"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width ="80"/> 
 </a> 
 
 </div>
  
  <!--
- <a href="https://linkedin.com/in/lucas-leal-santos">
+ <a href="https://linkedin.com/in/fabianacorallokuhlmann">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+&nbsp;&nbsp;<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width ="100" />
 -->
 <!--
 &nbsp;&nbsp;<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Virtual-Agents-Colored.svg" width ="45" />&nbsp;&nbsp;
