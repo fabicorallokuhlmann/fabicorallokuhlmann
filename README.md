@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - **Cientista de dados** em progresso <img src="https://www.svgrepo.com/show/445691/data-science.svg" width="25" align = "left"/> <div display="inline-flex"><br/>
 - **Nintendo** rules :metal: <img src="https://www.svgrepo.com/show/303386/nintendo-2-logo.svg" width="30" align = "left"/><br/><br/>
 - **Meditação** :heart: <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f9d8-1f3fc-2640.svg" width="25" align = "left"/><div display="inline-flex"><br/>
-- Praticante de **tiro com arco** <img src= "https://www.svgrepo.com/show/96292/archery.svg" width="30" align = "left" display= "inline-flex"/>, **futebol** ⚽ e **kitesurf** &nbsp;&nbsp;<img src= "https://www.svgrepo.com/show/8211/kitesurfing.svg" width="25" align = "right = -1px"/><div display="inline-flex">
+<!--- Praticante de **tiro com arco** <img src= "https://www.svgrepo.com/show/96292/archery.svg" width="30" align = "left" display= "inline-flex"/>, **futebol** ⚽ e **kitesurf** &nbsp;&nbsp;<img src= "https://www.svgrepo.com/show/8211/kitesurfing.svg" width="25" align = "right = -1px"/><div display="inline-flex">-->
 
 
 ##
