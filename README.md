@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 🎯 Transformo dados em decisões estratégicas!  
 Sou neurocientista por formação e atuo como analista de People Analytics, desenvolvendo análises preditivas, clusterizações, visualizações com storytelling e soluções orientadas por dados.
 
-Ah, e quando não estou codando ou modelando dados... você provavelmente vai me encontrar jogando Nintendo, meditando ou pensando em como unir neurociência, dados e impacto social.  
-
 ---
 
 ### 👩‍💻 Sobre mim:
