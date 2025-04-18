@@ -15,39 +15,78 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Oie, Fabi aqui :)
-- **Neurocientista** de formação <img src="https://www.svgrepo.com/show/395921/brain.svg" width="25" align = "left"/> <div display="inline-flex"><br/>
-- **Analista de dados e BI** em atuação <img src="https://www.svgrepo.com/show/445692/data-source.svg" width="25" align = "left"/> <div display="inline-flex"><br/>
-- **Cientista de dados** em progresso <img src="https://www.svgrepo.com/show/445691/data-science.svg" width="25" align = "left"/> <div display="inline-flex"><br/>
-- **Nintendo** rules :metal: <img src="https://www.svgrepo.com/show/303386/nintendo-2-logo.svg" width="30" align = "left"/><br/><br/>
-- **Meditação** :heart: <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f9d8-1f3fc-2640.svg" width="25" align = "left"/><div display="inline-flex"><br/>
-<!--- Praticante de **tiro com arco** <img src= "https://www.svgrepo.com/show/96292/archery.svg" width="30" align = "left" display= "inline-flex"/>, **futebol** ⚽ e **kitesurf** &nbsp;&nbsp;<img src= "https://www.svgrepo.com/show/8211/kitesurfing.svg" width="25" align = "right = -1px"/><div display="inline-flex">-->
 
+🎯 Transformo dados em decisões estratégicas!  
+Sou neurocientista por formação e atuo como analista de People Analytics, desenvolvendo análises preditivas, clusterizações, visualizações com storytelling e soluções orientadas por dados.
 
-##
-- :rocket: **Ferramentas e Tecnologias**:
+Ah, e quando não estou codando ou modelando dados... você provavelmente vai me encontrar jogando Nintendo, meditando ou pensando em como unir neurociência, dados e impacto social.  
+
+---
+
+### 👩‍💻 Sobre mim:
+- 🧠 **Neurocientista** por formação  
+- 📊 **Analista de People Analytics** em atuação  
+- 🤖 **Cientista de dados** em progresso  
+- 🎮 **Nintendo** rules  
+- 🧘 **Amante de meditação**
+
+<!--- ✨ Praticante de tiro com arco, futebol e kitesurf  -->
+
+---
+
+### 🚀 Ferramentas e Tecnologias:
+
 <div display="inline">
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="45" /> &nbsp;&nbsp;        
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width ="45" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" width="45"/> &nbsp;&nbsp;  
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width ="45" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="45"/>&nbsp;&nbsp;  
-<br/><br/> </div> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width ="45" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width ="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="45"/>
+</div>
 
+---
 
-- 🖥️ Atualmente, **estudando**:
+### 📚 Estudando atualmente:
+
 <div display="inline">
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width ="70" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width ="70" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width ="70" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" width ="65" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/Matplotlib-%238b0000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" width ="80" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width ="95" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width ="95" />&nbsp;&nbsp;
-  </div>
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width ="70" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width ="70" />
+<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width ="70" />
+<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" width ="65" />
+<img src="https://img.shields.io/badge/Matplotlib-%238b0000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" width ="80" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width ="95" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width ="95" />
+</div>
 
-## 
-##### Outras redes: 
-<div display="inline"> 
+---
+
+ <!--### 📌 Projetos em Destaque:
+
+- 🔍 **Análise de Turnover e Clima Organizacional**  
+  Modelagem de Health Score para franquias, com indicadores preditivos como eNPS, Q1/Q2, aderência a quadro ideal e low performers.  
+  [🔗 Ver projeto](link-do-repo)
+
+- 📈 **Dashboard de Performance no Power BI**  
+  Desenvolvimento de dashboards estratégicos para análise de metas e KPIs.  
+  [🔗 Ver projeto](link-do-repo)
+
+- 🧠 **Estudo de Neurociência & Dados**  
+  Análise de padrões comportamentais a partir de dados experimentais com base em neurociência cognitiva.  
+  [🔗 Ver projeto](link-do-repo)
+
+*(me avisa se quiser ajuda para colocar links e descrição real dos seus projetos!)*
+
+---
+-->
+### 🌍 Idiomas:
+
+- 🇧🇷 Português (nativo)  
+- 🇬🇧 Inglês (avançado)  
+
+---
+
+### 🔗 Outras redes:
+
 <a href="https://linkedin.com/in/fabianacorallokuhlmann">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>    
@@ -59,8 +98,6 @@ Here are some ideas to get you started:
 <a href="mailto:fabiana.corallo01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width ="80"/> 
 </a> 
-
-</div>
  
  <!--
  <a href="https://linkedin.com/in/fabianacorallokuhlmann">
