@@ -29,8 +29,7 @@ Ah, e quando não estou codando ou modelando dados... você provavelmente vai me
 - 🤖 **Cientista de dados** em progresso  
 - 🎮 **Nintendo** rules  
 - 🧘 **Amante de meditação**
-
-<!--- ✨ Praticante de tiro com arco, futebol e kitesurf  -->
+- ✨ Praticante de tiro com arco, futebol e kitesurf
 
 ---
 
