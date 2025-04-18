@@ -25,7 +25,7 @@ Sou neurocientista por formação e atuo como analista de People Analytics, dese
 - 🧠 **Neurocientista** por formação  
 - 📊 **Analista de People Analytics** em atuação  
 - 🤖 **Cientista de dados** em progresso  
-- 🎮 **Nintendo** rules  
+- 🎮 Nintendo rules 🤘
 - 🧘 **Amante de meditação**
 - ✨ Praticante de tiro com arco, futebol e kitesurf
 
