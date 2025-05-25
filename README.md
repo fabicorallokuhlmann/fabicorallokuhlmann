@@ -6,10 +6,8 @@
 
 ### Hi there, I'm Fabi :)
 
-🎯 I turn data into strategic decisions!
-
-I'm graduated in Neuroscience and currently work as a People Analytics Analyst, developing predictive models, cluster analysis, data storytelling dashboards, and data-driven solutions.
-
+#### I turn complex data into meaningful insights that support real-world decisions.
+#### With a degree in Neuroscience, I currently work in People Analytics, creating predictive models, clusters, and storytelling dashboards that drive growth for people and businesses.
 ---
 
 ### 👩‍💻 About Me:
@@ -80,10 +78,9 @@ I'm graduated in Neuroscience and currently work as a People Analytics Analyst, 
 
 ### Oie, Fabi aqui :)
 
-🎯 Transformo dados em decisões estratégicas!
+#### 🎯 Ajudo a transformar dados complexos em insights que apoiam decisões reais e com significado.
 
-Sou graduada em Neurociência e atuo como analista de People Analytics, desenvolvendo análises preditivas, clusterizações, visualizações com storytelling e soluções orientadas por dados.
-
+#### Sou graduada em Neurociência e atualmente atuo com People Analytics, desenvolvendo modelos preditivos, análises de clusters e dashboards com storytelling de dados que impulsionam o crescimento de pessoas e negócios.
 ---
 
 ### 👩‍💻 Sobre mim:
@@ -110,7 +107,7 @@ Sou graduada em Neurociência e atuo como analista de People Analytics, desenvol
 
 ---
 
-### 📚 Ferramentas aplicadas no dia a dia:
+### 📚 Bibliotecas que utilizo:
 
 <div display="inline">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width ="70" />
