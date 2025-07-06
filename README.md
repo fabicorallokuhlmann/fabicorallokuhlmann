@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me:
 - 🧠 **Graduated in Neuroscience**
-- 📊 **People Analytics Analyst** in action  
+- 📊 **People Analytics Specialist** in action  
 - 🤖 **Data Scientist** in progress  
 - 🎮 **Nintendo rules** 🤘  
 - 🧘 **Meditation lover**  
