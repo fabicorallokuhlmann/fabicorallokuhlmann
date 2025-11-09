@@ -11,42 +11,54 @@
 ---
 
 ### 👩‍💻 About Me:
-- 🧠 **Graduated in Neuroscience**
+- 🧠 **Neuroscience Graduate**
 - 📊 **People Analytics Specialist** in action  
 - 🤖 **Data Scientist** in progress  
 - 🎮 **Nintendo rules** 🤘  
 - 🧘 **Meditation lover**  
-- ✨ Practicing **archery**, **football** and **kitesurfing** 
+- ✨ Practicing **archery**, **roller-skating**, **footvolley**, **football** and **kitesurfing** 
 ---
 
 ### 🚀 Tools & Technologies:
 
+#### 🧠 Data & Analytics
 <div display="inline">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width ="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width ="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="45"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="90"/>
-<img src="https://img.shields.io/badge/Google_Looker_Studio-567931?style=for-the-badge&logo=powerbi&logoColor=black" width="170"/>
-<img src="https://img.shields.io/badge/Jupyter_Notebook-897632?style=for-the-badge&logo=powerbi&logoColor=black" width="150"/>
-</div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" width="90"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="75"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" width="130"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" width="130"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="85"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" width="130"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" width="160"/>
+
+#### ⚙️ Automation & Scripting
+<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" width="150"/>
+<img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" width="70"/>
+<img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" width="65"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" width="130"/>
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" width="100"/> 
+
+#### ☁️ Development & Version Control
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" width="60"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="70"/>
+<div>
 
 ---
 
 ### 📚 In My Workflow:
 
-<div display="inline">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width ="70" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width ="70" />
-<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width ="70" />
-<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" width ="65" />
-<img src="https://img.shields.io/badge/Matplotlib-%238b0000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" width ="80" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width ="95" />
-<img src="https://img.shields.io/badge/scikit_learn-F74689E?style=for-the-badge&logo=scikit-learn&logoColor=white" width ="95" />
-<img src="https://img.shields.io/badge/Requests-468976?style=for-the-badge&logo=scikit-learn&logoColor=white" width ="75" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" width ="55" />
-<img src="https://img.shields.io/badge/NLTK-391806?style=for-the-badge&logo=python&logoColor=white" width ="55" />
-
+<div align="inline">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/Matplotlib-8B0000?style=for-the-badge&logo=jupyter&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" width="105" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" width="65" />
+  <img src="https://img.shields.io/badge/NLTK-391806?style=for-the-badge&logo=python&logoColor=white" width="65" />
+  <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" width="85" />
+  <img src="https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white" width="85" />
+  <img src="https://img.shields.io/badge/gspread-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" width="85" />
 </div>
 
 ---
@@ -89,37 +101,55 @@
 - 🤖 **Cientista de dados** em progresso  
 - 🎮 **Nintendo rules** 🤘  
 - 🧘 **Apaixonada por meditação**
-- ✨ Praticante de **tiro com arco**, **futebol** e **kitesurf**  
+- ✨ Praticante de **tiro com arco**, **patinação**, **futevôlei**, **futebol** e **kitesurf**  
 
 ---
 
 ### 🚀 Ferramentas e Tecnologias:
 
+#### 🧠 Dados e Analytics
 <div display="inline">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width ="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width ="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width ="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="45"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="90"/>
-<img src="https://img.shields.io/badge/Google_Looker_Studio-567931?style=for-the-badge&logo=powerbi&logoColor=black" width="170"/>
-<img src="https://img.shields.io/badge/Jupyter_Notebook-897632?style=for-the-badge&logo=powerbi&logoColor=black" width="150"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="90"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" width="90"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="75"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" width="130"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" width="130"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="85"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" width="130"/>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" width="160"/>
 </div>
+
+#### ⚙️ Automação e Scripting
+<div display="inline">
+<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" width="150"/>
+<img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" width="70"/>
+<img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" width="65"/>
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" width="130"/>
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" width="100"/> 
+</div>
+
+#### ☁️ Desenvolvimento e Controle de Versão
+<div display="inline">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" width="60"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" width="70"/>
+</div>
+
 
 ---
 
 ### 📚 Bibliotecas que utilizo:
 
-<div display="inline">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width ="70" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width ="70" />
-<img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width ="70" />
-<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" width ="65" />
-<img src="https://img.shields.io/badge/Matplotlib-%238b0000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" width ="80" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" width ="95" />
-<img src="https://img.shields.io/badge/scikit_learn-F74689E?style=for-the-badge&logo=scikit-learn&logoColor=white" width ="95" />
-<img src="https://img.shields.io/badge/Requests-468976?style=for-the-badge&logo=scikit-learn&logoColor=white" width ="75" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" width ="55" />
-<img src="https://img.shields.io/badge/NLTK-391806?style=for-the-badge&logo=python&logoColor=white" width ="55" />
+<div align="inline">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/Matplotlib-8B0000?style=for-the-badge&logo=jupyter&logoColor=white" width="100" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" width="80" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" width="105" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" width="65" />
+  <img src="https://img.shields.io/badge/NLTK-391806?style=for-the-badge&logo=python&logoColor=white" width="65" />
+  <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" width="85" />
+  <img src="https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white" width="85" />
+  <img src="https://img.shields.io/badge/gspread-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" width="85" />
 </div>
 
 ---
