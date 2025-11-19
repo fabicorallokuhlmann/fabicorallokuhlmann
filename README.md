@@ -16,7 +16,7 @@
 - 🤖 **Data Scientist** in progress  
 - 🎮 **Nintendo rules** 🤘  
 - 🧘 **Meditation lover**  
-- ✨ Practicing **archery**, **roller-skating**, **footvolley**, **football** and **kitesurfing** 
+- ✨ Practicing **archery**, **roller-skating**, **footvolley**, **soccer** and **kitesurfing** 
 ---
 
 ### 🚀 Tools & Technologies:
