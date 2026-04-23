@@ -7,7 +7,7 @@
 ### Hi there, I'm Fabi :)
 
 #### I turn complex data into meaningful insights that support real-world decisions.
-#### With a degree in Neuroscience, I currently work in People Analytics, creating predictive models, clusters, and storytelling dashboards that drive growth for people and businesses.
+#### With a degree in Neuroscience, I currently work in People Analytics, creating predictive and clustering models, and storytelling dashboards that drive growth for people and businesses.
 ---
 
 ### 👩‍💻 About Me:
